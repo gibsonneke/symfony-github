@@ -11,8 +11,8 @@ Required: Git, Composer, PHP
 
 3. Run the built-in web server
 
-	#  php bin/console server:run
+	# php bin/console server:run
 	
 4. Run the application in your favourite browser
 
-	#  http://127.0.0.1:8000
+	# http://127.0.0.1:8000
